@@ -1,3 +1,7 @@
-# Student-information-management-system--Java-MyQSQL
+# 学生信息管理系统-Java-MyQSQL
 大二Java实训期末项目。
-一个基于Java和MySQL数据库的学生信息管理系统，界面操作简单，基本的增、删、改、查功能完善
+一个基于Java和MySQL数据库的学生信息管理系统，界面操作简单，基本的增、删、改、查功能完善。
+项目所需环境:eclipse IDE 2022-09、MySQL数据库(8.0.31)、MySQLWorkbench(数据库可视化工具)
+压缩包里有论文、sql文件以及项目相关源码。
+项目详细介绍在论文里，包括从最开始的数据库、驱动下载到建立自己的数据库、数据表以及连接数据库源码修改等。
+
